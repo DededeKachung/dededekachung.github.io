@@ -1,0 +1,168 @@
+#back{
+	
+}
+#zeile1{
+	padding-left:0%;
+}
+#zeile2{
+	padding-left:0%;
+}
+#autor{
+	margin-top:10%;
+	margin-bottom:10%;
+	margin-left:3%
+}
+#eins{
+	position:static;
+	height:170%;
+}
+#bild1{
+	width:90%;
+	height:20%;
+	float:none;
+	margin-top:10%;
+}
+#fotobeschriftung{
+	float:none;
+}
+#fotoz1{
+	font-size:400%;
+	position:absolute;
+	margin-top:5%;
+}
+#fotoz2{
+	font-size:400%;
+	position:absolute;
+	margin-top:15%;
+}
+#ol1{
+	margin-top:-32%;
+	margin-bottom:0%;
+	margin-left:37%;
+	position:relative;
+}
+#textkasten1{
+	display:inline-block;
+	/*background-color:yellow;*/
+	margin-top:6%;
+	margin-bottom:1%;
+	margin-left:6%;
+	position:static;
+}
+#aboutme{
+	float:center;
+	margin-top:5%;
+}
+#zwei{
+	position:static;
+}
+#textkasten1{
+	display:inline-block;
+	/*background-color:yellow;*/
+	margin-top:6%;
+	margin-bottom:5%;
+	margin-left:6%;
+	position:static;
+}
+#zwei{
+	position:static;
+	height:100%;
+}
+#textkasten2{
+	display:inline-block;
+	/*background-color:yellow;*/
+	margin-top:6%;
+	margin-bottom:5%;
+	margin-left:6%;
+	position:static;
+}
+#wok{
+	margin-top:5%;
+	margin-bottom:5%;
+}
+#work_img{
+	width:100%;
+	height:40%;
+	float:none;
+	margin-top:5%;
+	margin-bottom:1%;
+	margin-left:0%;
+	
+}
+#inhalt{
+	float:none;
+	margin-left:7%;
+	margin-top:10%;
+}
+#inhaltz1{
+	font-size:400%;
+	position:absolute;
+	margin-top:5%;
+}
+#inhaltz2{
+	font-size:400%;
+	position:absolute;
+	margin-top:15%;
+	margin-left:10%;
+}
+#inhaltz3{
+	font-size:400%;
+	position:absolute;
+	margin-top:25%;
+	margin-left:17%;
+}
+#drei{
+	position:static;
+	height:135%;
+}
+#textkasten3{	
+	display:inline-block;
+	/*background-color:yellow;*/
+	margin-top:6%;
+	margin-right:0%;
+	margin-bottom:5%;
+	margin-left:0%;
+	position:static;
+	float:none;
+}
+#opener{
+	float:none;
+	width:90%;
+	margin-right:0%;
+}
+#contact{
+	display:inline-block;
+	margin-top:0%;
+}
+#pls{
+	margin-left:0%;
+	margin-right:2%;
+	margin-top:5%;
+}
+#dt{
+	margin-left:0%;
+}
+#formbox{
+	width:100%;
+	height:40%;
+	margin-top:5%;
+	margin-right:0%;
+	margin-bottom:5%;
+	padding:4%;
+}
+#rightside{
+	float:none;
+	margin-bottom:5%;
+	margin-top:5%;
+	/*background-color:pink;*/
+}
+#mydetails{
+	margin-bottom:5%;
+	margin-left:0%;
+	}
+#id{
+	height:30%;
+}
+
+
+	

@@ -1,0 +1,243 @@
+body{
+	background-color:white;
+	color:#222423;
+	
+}
+h1{								/*Zitat*/
+	font-size:300px;
+	color:#222423;
+	font-family:Amatic SC;
+}
+h2{								/*Überschriften*/
+	font-family:Amatic SC;		
+	font-size:299px;
+	text-align: center;
+}
+h3{								/*Überschrift "Impressum"*/
+	font-family:Questrial;		
+	font-size:150px;
+	text-align:left;
+	margin-left:70px;
+	margin-top:70px;
+}
+h4{								/*Unterüberschriften Impressum*/
+	font-family:Montserrat;		
+	font-size:50px;
+	text-align: justify;
+	margin-left:70px;
+	margin-right:70px;
+}
+h5{								/*Fließtext*/
+	font-family:Montserrat;		
+	font-size:35px;
+}
+p{								/*Fließtext Impressum*/
+	font-family:Montserrat;		
+	font-size:17px;
+	text-align: justify;
+	margin-left:70px;
+	margin-right:70px;
+}
+#header{
+	position:static;
+	width:100%;
+}
+
+#nav{
+	width:100vw;	
+	margin-bottom: 0px;
+	background-color:red;
+	color:#222423;
+	list-style-type: none;
+	
+}
+ul{									/*senkrechter block um ganze navbar*/
+	list-style-type: none;
+	width:100vw;
+	overflow:hidden;
+	display:block;
+	margin-bottom:0px;
+
+}
+li a{								/*Navbar-elemente*/
+	font-family:Amatic SC;		
+	font-size:45px;
+	text-align:center;
+	float:right;
+	color:#222423;
+	background-color:green;
+	margin-bottom: 0px;
+	margin-top: 0px;
+}
+a:link {
+	color:#222423;
+	/*background-color:white;*/
+	text-align:center;
+	text-decoration:none;
+	margin-bottom: 0px;
+	padding-right:20px;	
+	padding-left:20px;					/*abstand zwischen einzelnen menüpunkten*/
+}
+a:visited{
+	color:#222423;
+	background-color:white;
+	text-align:center;
+	text-decoration:none;
+	
+}
+li a:hover{						/*hover immer unterhalb v link und visited, und active unterhalb von hover*/
+	background-color:#fc8803;
+	color:#222423;
+	display:inline-block;
+	text-decoration:none;
+}
+#back{
+	margin-right:70px;
+}
+#Quelle{
+	color:#222423;
+}
+#header{
+	width:100vw;
+	/*position:relative;*/
+}
+#zitat{
+	margin-top:-5%;
+	margin-left:10%;
+	overflow:hidden;
+	/*background-color:green;*/
+	/*position:absolute;*/
+	/*display:inline-block;*/
+}
+#zeile1{
+	font-family:Amatic SC;
+	font-size:70px;
+}
+#zeile2{
+	font-family:Amatic SC;
+	font-size:70px;
+	margin-left:7%;
+	
+}
+#autor{
+	font-family:Amatic SC;
+	font-size:50px;
+	margin-left:20%;
+	margin-top:2%;
+	margin-bottom:3%;
+	
+}
+#headerbild{
+	margin-bottom:0%;
+	/*display:inline-block;*/
+	width: 100vw;
+	/*background-color:red;
+	border: 1px solid black;*/
+}
+
+
+#eins{
+	width:100%;
+	/*height:1000px;*/
+	/*border: 1px solid black;*/
+	background-color: #d3f1f4;
+	position:relative;
+	float:left;
+	
+}
+#bild1{
+	height:600px;
+	width:800px;
+	margin-left:5%;
+	margin-top:5%;
+	margin-bottom:20%;
+	border: 1px solid black;
+	background-color: white;
+	display:inline-block;
+	float:left;
+	clear:left;
+}
+#fotobeschriftung{
+	/*background-color:pink;*/
+	margin-top:100px;
+	margin-left:100px;
+	font-family:Amatic SC;
+	color:#222423;
+	display:inline-block;
+	
+}
+#fotoz1{
+	display:inline-block;
+	/*background-color:pink;*/
+	margin-top:20px;
+	margin-left:20px;
+	font-size:80px;
+}
+#fotoz2{
+	display:inline-block;
+	/*background-color:pink;*/
+	margin-top:0px;
+	margin-left:120px;
+	font-size:80px;
+	
+}
+#ol1{
+	font-family:Amatic SC;
+	font-size:50px;
+	display:inline-block;
+	margin-top:310px;
+	margin-bottom:100px;
+	margin-left:-105px;
+	overflow:hidden;
+	position:absolute;
+	
+}
+#textkasten{
+	display:inline-block;
+	/*background-color:yellow;*/
+	margin-bottom:0px;
+	margin-left:500px;
+	margin-top:200px;
+	position:absolute;
+}
+#about{
+	
+	margin-left:400px;
+	margin-right:50px;
+	font-family:Amatic SC;
+	font-size:60px;
+	display:inline-block;
+	/*background-color:green;*/
+}
+#aboutme{
+	position:static;
+	display:inline-block;
+	/*background-color:blue;*/
+	height:600px;
+	width:900px;
+	margin-left:50px;
+	margin-right:70px;
+}
+#zwei{
+	width:100%;
+	height:1000px;
+	border: 1px solid black;
+	background-color: white;
+	position:relative;
+	float:left;
+	
+}
+/*#drei{
+	height:700px;
+	width:1300px;
+	text-align: justify;
+	float:clear;
+}*/
+/*#footer{
+	position: static;
+	width: 100%;
+	background-color:red;
+	padding-top:100px;
+	padding-bottom:100px;
+}
+*/
